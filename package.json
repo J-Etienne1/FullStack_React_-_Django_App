@@ -4,9 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "webpack --mode development ./leadmanager/frontend/src/index.js --output ./leadmanager/frontend/static/frontend/main.js",
-    "build": "webpack --mode production ./leadmanager/frontend/src/index.js --output ./leadmanager/frontend/static/frontend/main.js"
-  },
+    
+      "dev": "webpack --mode development --watch ./leadmanager/frontend/src/index.js --output-path ./leadmanager/frontend/static/frontend/main.js",
+      "build": "webpack --mode production ./leadmanager/frontend/src/index.js --output-path ./leadmanager/frontend/static/frontend/main.js"
+    },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/J-Etienne1/FullStack_React_-_Django_App.git"
