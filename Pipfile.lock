@@ -145,7 +145,7 @@
                 "sha256:d9e69ae01f99abe6ad646947bba8941e896cb3aa805be2597a0400e0764b5818"
             ],
             "markers": "python_version >= '3.6'",
-            "version": "==38.0.1"
+            "version": "==41.0.0"
         },
         "django": {
             "hashes": [
@@ -191,7 +191,7 @@
                 "sha256:69ca804846bb114d2ec380e4360a8a340db83f0ccf3afceeb1404df028f57268"
             ],
             "markers": "python_version >= '3.5'",
-            "version": "==0.4.3"
+            "version": "==0.4.4"
         },
         "tzdata": {
             "hashes": [
