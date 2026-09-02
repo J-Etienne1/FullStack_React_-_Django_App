@@ -20,10 +20,10 @@
   },
   "homepage": "https://github.com/J-Etienne1/FullStack_React_-_Django_App#readme",
   "devDependencies": {
-    "@babel/core": "^7.19.3",
-    "@babel/preset-env": "^7.19.4",
-    "@babel/preset-react": "^7.18.6",
-    "babel-loader": "^8.2.5",
+    "@babel/core": "^8.0.1",
+    "@babel/preset-env": "^8.0.2",
+    "@babel/preset-react": "^8.0.1",
+    "babel-loader": "^10.1.1",
     "babel-plugin-transform-class-properties": "^6.24.1",
     "webpack": "^5.105.1",
     "webpack-cli": "^4.10.0"
